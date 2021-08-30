@@ -1,0 +1,111 @@
+/**
+
+File Name: main.css 
+
+@Author : Utsavkumar Patel @000820474
+
+*/
+
+
+
+body{
+	     margin-left: 10em;
+	     margin-right: 10em;
+	     margin-top: 0em;
+	     margin-bottom: 5em;
+		 font-family: Arial ,Verdana , Geneva , Courier;
+}
+
+.rec{
+	     color:#14ab3f;
+		 font-weight:bold;
+		 color:#14ab3f;
+		 font-size:40px;
+		 
+}
+
+#bcd{
+	     text-align:center;
+}
+
+#bcd img{
+         vertical-align:middle;
+}
+	   
+footer{
+	     border-top: 5px solid black;
+	     text-align:center;
+	     background-image:url(images/ricepaper.png);   
+}
+
+nav{
+	     background-color:#fbefb3;
+	     padding:5px;
+	     text-align:center;
+	     color:#14ab3f;
+	     padding-left:50px;
+}
+
+nav a{
+	     color:#14ab3f;
+	     padding-right:50px;
+	     text-decoration:none;
+}
+
+nav a:hover{
+	     color:#ec834a;
+		 text-decoration:underline;
+}
+
+nav a:active{
+	     color:black;
+}
+
+#uv{
+	     background-color:#fbefb3;
+	     text-decoration:none;
+}
+
+h1,h2,h3{
+	     color:#14ab3f;
+}
+
+figure img{
+	     float:right;
+}
+	   
+.abc{
+	     text-align:center;
+}
+
+nav{
+	     background-color:#fbefb3;
+}
+
+.pqr{
+	     text-decoration-line:underline;
+	     text-decoration-style:double;
+	     font-style:italic;
+}
+
+#ala{
+	     line-height:3em;
+}
+
+.xyz{
+	     vertical-align:middle;
+}
+
+#ala ul.xyz li{
+	     list-style-image: url(images/recycle_sm1.jpg);
+}
+
+.kaib{
+	     font-size:18px;
+	     font-style:italic;
+}
+
+#bsh{
+	    color:#b8860b;
+	    font-style:italic;
+}
