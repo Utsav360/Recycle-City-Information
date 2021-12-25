@@ -1,2 +1,3 @@
 # Recycle-City-Information
-Recycle City Web Page using HTML5 &amp; CSS3
+
+Recycle City Web Page gives infromation about the city recycling infomation and built using simple CSS3, and Html5
